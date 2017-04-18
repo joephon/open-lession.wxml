@@ -1,3 +1,9 @@
+# Mine
+keys.js
+
+# Mac
+.DS_Store
+
 # Logs
 logs
 *.log
